@@ -1,0 +1,18 @@
+/* Challenge 1: Import font from Google Fonts and set the font-family for body as Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Challenge 2: Set the font-variant, font-weight, font-style for id 'css' */
+#css {
+  font-variant: small-caps;
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* Challenge 3: Set the font-size for all the p tags to 15px */
+p {
+  font-size: 15px;
+}
